@@ -1,16 +1,17 @@
-## Hi there 👋
+## Hey there 👋
 
-<!--
-**hassan-src-io/hassan-src-io** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm Hassan, a computer science student and a student researcher.
 
-Here are some ideas to get you started:
+I design and build whatever i can imagine.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+If an idea pops into my head, chances are I'll build it and ship it.
+
+My main tech stack is Python, PyTorch, OpenCV, YOLO, Streamlit, Java, C, and SQL. My favorite tools are Notion and the JetBrains IDEs.
+
+I've built close to a dozen private repos.
+
+I will be posting a bunch of projects that aren't public right now, one of them is ChessVision.
+
+I work as a student researcher at the VaLab PNEC.
+
+I study at the National University of Sciences and Technology (NUST)
